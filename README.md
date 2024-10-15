@@ -22,9 +22,10 @@ This project is a Progressive Web Application (PWA) text editor that runs in the
    cd Module-19-Challenge
 
 2. Install dependencies:
+```bash
 npm install
 
-Build the client:
+3. Build the client:
 
 Start the server:
 
